@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://autoescola-modelo-ficticia-pxzys-projects.vercel.app/sitemap.xml
+Sitemap: https://autoescola.vercel.app/sitemap.xml

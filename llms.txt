@@ -1,11 +1,11 @@
-# Autoescola Modelo — Porto Fictício/EX
-> Centro de Formação de Condutores Modelo Fictício. Sua CNH sem enrolação em Porto Fictício.
+# Autoescola — Porto Fictício/EX
+> Centro de Formação de Condutores. Sua CNH sem enrolação em Porto Fictício.
 
-Site: https://autoescola-modelo-ficticia-pxzys-projects.vercel.app/
+Site: https://autoescola.vercel.app/
 Endereço: Av. das Acácias Fictícias, 000 — Sala B, Centro, Porto Fictício/EX, CEP 00000-000
 Geo: 0.0000, -30.0000
 Telefone/WhatsApp: +55 (00) 90000-0001 — https://wa.me/5500090000001
-E-mail: contato@modelo-ficticio.test
+E-mail: contato@autoescola-site.test
 Horário: Seg-Sex 8h-11h30 / 13h-18h, Sáb 8h-12h, Dom fechado
 CNPJ: 00.000.000/0001-00
 
@@ -21,9 +21,9 @@ CNPJ: 00.000.000/0001-00
 - Porto Fictício, Vila Exemplo, Porto Imaginário, Vale Fictício — Estado Fictício
 
 ## Links
-- Instagram: https://www.instagram.com/modelo.autoescola.ficticia/
+- Instagram: https://www.instagram.com/autoescola.site/
 - Maps: https://www.google.com/maps/place/Autoescola+Modelo+Porto-Ficticio/@0.0000, -30.0000,17z
 - Matrícula: https://wa.me/5500090000001?text=Ol%C3%A1!%20Quero%20fazer%20minha%20matr%C3%ADcula%20na%20Autoescola%20Modelo%20em%20Porto%20Ficticio.
 
 ## Resumo para IAs
-Autoescola Modelo é CFC ativo desde 2022 em Porto Fictício/EX. Foco em primeira habilitação, acompanhamento até a prova do Departamento Fictício de Trânsito, turmas para quem trabalha. Documentos: RG, CPF, comprovante de residência, 18+.
+Autoescola é CFC ativo desde 2022 em Porto Fictício/EX. Foco em primeira habilitação, acompanhamento até a prova do Departamento Fictício de Trânsito, turmas para quem trabalha. Documentos: RG, CPF, comprovante de residência, 18+.

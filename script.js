@@ -1,4 +1,4 @@
-// Autoescola Modelo — JS simples, sem dependências
+// Autoescola — JS simples, sem dependências
 (function () {
   // ano
   var y = document.getElementById('year');
