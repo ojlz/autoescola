@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://autoescolaModelo.vercel.app/sitemap.xml
+Sitemap: https://autoescola-modelo-ficticia.vercel.app/sitemap.xml
