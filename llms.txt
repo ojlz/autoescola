@@ -1,7 +1,7 @@
 # Autoescola — Porto Fictício/EX
 > Centro de Formação de Condutores. Sua CNH sem enrolação em Porto Fictício.
 
-Site: https://autoescola-pxzys-projects.vercel.app/
+Site: https://autoescola-ex.vercel.app/
 Endereço: Av. das Acácias Fictícias, 000 — Sala B, Centro, Porto Fictício/EX, CEP 00000-000
 Geo: 0.0000, -30.0000
 Telefone/WhatsApp: +55 (00) 90000-0001 — https://wa.me/5500090000001
